@@ -1,5 +1,5 @@
 ## 👋 Hi there, I’m Vladimir Molotkov 
-### Data Scientist @ [Platforma.id](https://platforma.id/) | AdTech Solutions 
+### Data Scientist @ [Platforma](https://platforma.id/) | AdTech Solutions 
 
 🔭 I work at the intersection of data and advertising technology, building models and insights to optimize ad performance, targeting, and user engagement. 
 
