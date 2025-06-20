@@ -5,15 +5,14 @@
 
 ### 🛠️ Tech Stack  
 
-- **Data Science**: Python (Pandas, NumPy, Scikit-learn), SQL, PySpark  
+- **Data Science**: Python (Pandas, NumPy, Catboost), SQL, PySpark  
 - **ML/Stats**: Regression, Classification, NLP, A/B Testing  
-- **Tools**: Jupyter, Git, Airflow  
+- **Tools**: Jupyter, Git, Airflow, MLFlow, Docker 
 - **AdTech**: DSPs, SSPs, RTB, Attribution Modeling
 
 ### 🌱 Currently Learning  
 - Scalable ML systems
-- Natural Language Processing
-- Causal inference for ad impact analysis  
+- Natural Language Processing 
   
 ### 📊 My stats:
 
