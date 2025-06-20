@@ -1,4 +1,7 @@
-## Hi there 👋
+## 👋 Hi there, I’m Vladimir Molotkov 
+### Data Scientist @ [Platforma.id](https://platforma.id/) 
+
+🔭 I work at the intersection of data and advertising technology, building models and insights to optimize ad performance, targeting, and user engagement. 
 
 <!--
 **vladimir-molotkov/vladimir-molotkov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +17,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+📊 My stats:
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vladimir-molotkov&layout=compact&theme=dark)
