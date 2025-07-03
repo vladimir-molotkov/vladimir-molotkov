@@ -5,7 +5,7 @@
 
 ### 🛠️ Tech Stack  
 
-- **Data Science**: Python (Pandas, NumPy, Catboost), SQL, PySpark  
+- **Data Science**: Python (Transformers, PyTorch, Pandas, NumPy, Catboost), SQL, PySpark  
 - **ML/Stats**: Regression, Classification, NLP, A/B Testing  
 - **Tools**: Jupyter, Git, Airflow, MLFlow, Docker 
 - **AdTech**: DSPs, SSPs, RTB, Attribution Modeling
