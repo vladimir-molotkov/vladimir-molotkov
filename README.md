@@ -1,7 +1,7 @@
 ## 👋 Hi there, I’m Vladimir Molotkov 
-### Data Analyst @ [Yandex]([ya.ru](https://yandex.ru/company)) 
+### Data Analyst @ [Yandex](https://yandex.ru/company) 
 
-🔭 I work at the intersection of data and advertising technology, building models and insights to optimize ad performance, targeting, and user engagement. 
+🔭 My work focuses on designing and implementing robust metrics and evaluation frameworks for voice AI.
 
 ### 🛠️ Tech Stack  
 
