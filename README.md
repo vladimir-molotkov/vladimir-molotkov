@@ -1,5 +1,5 @@
 ## 👋 Hi there, I’m Vladimir Molotkov 
-### Data Scientist @ [Platforma](https://platforma.id/) | AdTech Solutions 
+### Data Analyst @ [Yandex]([ya.ru](https://yandex.ru/company)) 
 
 🔭 I work at the intersection of data and advertising technology, building models and insights to optimize ad performance, targeting, and user engagement. 
 
@@ -8,7 +8,7 @@
 - **Data Science**: Python (Transformers, PyTorch, Pandas, NumPy, Catboost), SQL, PySpark  
 - **ML/Stats**: Regression, Classification, NLP, A/B Testing  
 - **Tools**: Jupyter, Git, Airflow, MLFlow, Docker 
-- **AdTech**: DSPs, SSPs, RTB, Attribution Modeling
+
 
 ### 🌱 Currently Learning  
 - Scalable ML systems
